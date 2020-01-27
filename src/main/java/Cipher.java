@@ -13,7 +13,7 @@ public class Cipher {
     public int getNumbers() {
         return mNumbers;
     }
-    public String getEncryptedText(){
+    public String EncryptedText(){
         String ciphertext = "";
         char alphabet;
         for (int i=0;i<mText.length();i++){

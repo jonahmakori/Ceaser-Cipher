@@ -19,7 +19,7 @@ public class DecipherTest {
     @Test
     public void runCipher_gettingTheDecryptedText_ArrayList(){
         Decipher testCipher = new Decipher("dag",2);
-        assertEquals("bye",testCipher.getDecryptedText());
+        assertEquals("bye",testCipher.DecryptedText());
     }
 }
 

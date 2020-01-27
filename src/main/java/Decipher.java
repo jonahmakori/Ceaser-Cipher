@@ -13,7 +13,7 @@ public class Decipher {
     public int getNumbers() {
         return mNumbers;
     }
-    public String getDecryptedText(){
+    public String DecryptedText(){
         String decryptMessage = "";
         for(int i=0; i < mText.length();i++)
 

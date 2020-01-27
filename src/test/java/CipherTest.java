@@ -20,7 +20,7 @@ public class CipherTest {
     @Test
     public void runCipher_gettingTheEncryptedText_ArrayList(){
        Cipher testCipher = new Cipher("bye",2);
-       assertEquals("dag",testCipher.getEncryptedText());
+       assertEquals("dag",testCipher.EncryptedText());
     }
 
    }
