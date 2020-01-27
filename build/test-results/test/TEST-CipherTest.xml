@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CipherTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-01-27T09:10:16" hostname="jonah-HP-EliteBook-Folio-1040-G1" time="0.003">
-  <properties/>
-  <testcase name="runCipher_gettingTheNumbers_ArrayList" classname="CipherTest" time="0.002"/>
-  <testcase name="runCipher_gettingTheText_ArrayList" classname="CipherTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

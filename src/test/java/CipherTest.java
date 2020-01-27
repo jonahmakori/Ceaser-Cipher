@@ -22,5 +22,9 @@ public class CipherTest {
        Cipher testCipher = new Cipher("bye",2);
        assertEquals("dag",testCipher.getEncryptedText());
     }
-
+    @Test
+    public void runCipher_gettingTheDecryptedText_ArrayList(){
+       Cipher testCipher = new Cipher("dag",2);
+       assertEquals("bye",testCipher.getDecryptedText());
+    }
    }
