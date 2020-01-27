@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DecipherTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-01-27T11:45:32" hostname="jonah-HP-EliteBook-Folio-1040-G1" time="0.015">
+  <properties/>
+  <testcase name="runCipher_gettingTheNumbers_ArrayList" classname="DecipherTest" time="0.002"/>
+  <testcase name="runCipher_gettingTheText_ArrayList" classname="DecipherTest" time="0.001"/>
+  <testcase name="runCipher_gettingTheDecryptedText_ArrayList" classname="DecipherTest" time="0.01"/>
+  <system-out><![CDATA[ decrypt message : bye
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
