@@ -22,3 +22,15 @@ THis is a commandline application where a user enters a text and whether they wa
 ## Live Website
 View the complete site [here](https://github.com/jonahmakori/Ceaser-Cipher)
 
+## Contributors
+ - Jonah Makori
+
+
+## Technologies Used
+- java
+
+
+## codebeat
+
+My Grade
+[![codebeat badge](https://codebeat.co/badges/e9848b85-7e61-4086-855f-456e49d6156b)](https://codebeat.co/projects/github-com-jonahmakori-ceaser-cipher-feature-caeser-cipher)
