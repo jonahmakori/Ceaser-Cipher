@@ -35,6 +35,8 @@ public class App {
                  System.exit(0);
               } else {
                  System.out.println("Invalid input!!!!");
+
+                     System.out.println("-----------------------------------------------");
               }
               }
           }
