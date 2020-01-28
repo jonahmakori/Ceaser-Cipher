@@ -11,3 +11,14 @@ THis is a commandline application where a user enters a text and whether they wa
 
 
 
+## Behaviour Driven Development
+
+| Behaviour | Input | Output |
+| --------- | ------| ------ |
+|Run the code on Terminal|Enter whether to encrypt or Decrypt or exit option|Displays The encrypted text if it was plain and if it was encypted chose decrypt tobe decrypted|
+
+
+
+## Live Website
+View the complete site [here](https://github.com/jonahmakori/Ceaser-Cipher)
+
